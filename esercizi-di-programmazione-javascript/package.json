@@ -1,0 +1,15 @@
+{
+  "name": "esercizi-di-programmazione-javascript",
+  "version": "1.0.0",
+  "description": "Qui troverai una serie di esercizi di informatica divisi per argomento e difficoltà (facili, medi e difficili). Sono esercizi totalmente gratuiti che puoi risolvere, sia se sei un mio studente del [Corso di Informatica: Programmatore Perfetto](https://www.programmaconalberto.it/p/corso-di-programmazione-programmatore-perfetto), sia se non stai seguendo le mie lezioni ma vuoi semplicemente esercitarti. Ho pensato di pubblicarli gratuitamente, proprio per dare a tutti la possibilità di fare molta pratica, dato che **il modo migliore per imparare a programmare è proprio facendo pratica**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
